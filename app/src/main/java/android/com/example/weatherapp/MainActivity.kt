@@ -30,7 +30,7 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
 
 
-    val api: String = "3ee04ca0aaa60f68545fce170e4bc3a0"
+    val api: String = "Your API KEY"
 
 
     private lateinit var fusedLocationProviderClient: FusedLocationProviderClient
